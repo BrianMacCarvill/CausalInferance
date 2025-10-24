@@ -1,0 +1,16 @@
+[project]
+name = "causalinferance"
+version = "0.1.0"
+description = "Supply methods to infer causality."
+authors = [
+    {name = "Brian MacCarvill"}
+]
+license = {text = "MIT License"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
