@@ -1,0 +1,3 @@
+@abstractclass
+class BaseClass:
+    pass

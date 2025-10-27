@@ -4,7 +4,6 @@ import numpy as np
 import numpy.typing as npt
 from scipy import stats
 
-
 def xicor(
     x: npt.ArrayLike,
     y: npt.ArrayLike,

@@ -32,3 +32,5 @@
 ```
 
 What does this model wrapper object look like?
+
+I'm thinking of a lot of stuff but I think that the first thing I should do is get a working example of the correlation inference
