@@ -58,11 +58,8 @@ class IGCI:
             unit_var (bool, optional): _description_. Defaults to False.
 
         Returns:
-            _type_: _description_
+            Tuple(float, float) | Dict[str: float]: _description_
         """        
-        """
-        
-        """
         
         if len(x) != len(y):
             ValueError("x and y must be the same size")
